@@ -1,0 +1,1 @@
+# modern-cmake-template
